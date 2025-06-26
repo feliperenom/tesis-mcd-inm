@@ -4,7 +4,8 @@
       <img src="./images/um.png" alt="UM" width="150">
     </td>
     <td align="center" width="50%">
-      <h1>MAT281 - 2° Semestre 2019</h1>
+      <h1>Template Maestría en Ciencia de Datos
+</h1>
     </td>
     <td align="right" width="25%">
       <img src="./images/facultad.png" alt="Facultad" width="150">
