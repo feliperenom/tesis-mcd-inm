@@ -67,8 +67,8 @@ Incluye una estructura recomendada para trabajar con herramientas modernas como 
 * Enlaza tu proyecto de Overleaf en `/thesis/overleaf_link.txt`
   Puedes usar las plantillas disponibles para:
 
-  * [Tesis académica](https://www.overleaf.com/gallery/tagged/thesis)
-  * [Presentación Beamer](https://www.overleaf.com/latex/templates/beamer-presentation-template/wnvfjwgnxwsv)
+  * [Tesis académica](https://www.overleaf.com/read/zzgvpnppnxhr#6b559e)
+  * [Presentación Beamer](https://es.overleaf.com/read/qtmhmtjmkynw#4cbb93)
 
 * Consulta ejemplos de tesis anteriores y sus repositorios en este Drive compartido:
   * [Repositorio de Tesis y GitHubs de Trabajos](https://drive.google.com/drive/folders/1D4il1fMGqllWhCA9chJYCt25BLfoMgdA?usp=sharing)
