@@ -101,6 +101,6 @@ Incluye una estructura recomendada para trabajar con herramientas modernas como 
 > * Mail: [francisco.alfaro@security.cl](mailto:francisco.alfaro@security.cl)
 > * GitHub: [@fralfaro](https://github.com/fralfaro)
 > * LinkedIn: [@faam](https://www.linkedin.com/in/faam/)
-> > ⚠️ **Nota**: Este repositorio se encuentra en desarrollo. Puede contener cambios frecuentes y mejoras progresivas.
+> > ⚠️ **Nota**: Este repositorio está en desarrollo. Puede contener cambios frecuentes y mejoras progresivas.
 
 
