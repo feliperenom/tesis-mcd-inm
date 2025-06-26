@@ -1,7 +1,17 @@
-<header>
-<img src="./images/um.png" alt="UTFSM" align="left" width="200"/>
-<img src="./images/facultad.png" alt="DMAT" align="right" width="200"/>
-</header>
+<table width="100%">
+  <tr>
+    <td align="left" width="25%">
+      <img src="./images/um.png" alt="UM" width="150">
+    </td>
+    <td align="center" width="50%">
+      <h1>MAT281 - 2° Semestre 2019</h1>
+    </td>
+    <td align="right" width="25%">
+      <img src="./images/facultad.png" alt="Facultad" width="150">
+    </td>
+  </tr>
+</table>
+
 </br></br></br></br></br>
 
 # MAT281 - 2° Semestre 2019 (versión antigua)
