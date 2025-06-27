@@ -54,7 +54,7 @@ Incluye una estructura recomendada para trabajar con herramientas modernas como 
 
 
 
-## Buenas prácticas recomendadas
+## ✅ Buenas prácticas recomendadas
 
 **Control de versiones**:
 
@@ -85,24 +85,24 @@ Incluye una estructura recomendada para trabajar con herramientas modernas como 
 
 ## 🔗 Recursos útiles
 
-### 🔧 GitHub y control de versiones
+**GitHub y control de versiones**:
 
 * [Curso oficial de GitHub para estudiantes](https://skills.github.com/)
 * [Guía de Github Flow](https://docs.github.com/es/get-started/using-github/github-flow)
 * [Video: Curso Git + GitHub básico ](https://www.youtube.com/watch?v=3GymExBkKjE)
 
-### 🧠 Ciencia de Datos y Python
+**Ciencia de Datos y Python**:
 
 * [Tutorial Pandas](https://pandas.pydata.org/docs/getting_started/index.html)
 * [Tutorial Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
 * [Tutorial Scikit-Learn](https://scikit-learn.org/stable/getting_started.html)
 * [Video: Curso Python Ciencia de Datos](https://www.youtube.com/watch?v=Axx9cQ4vtNw)
 
-### 📄 LaTeX y Overleaf
+**LaTeX y Overleaf**:
 
 * [Guía de LaTeX en Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * [Plantillas de tesis](https://www.overleaf.com/gallery/tagged/thesis)
-* [Video: Curso LaTeX + Overleaf](https://www.youtube.com/watch?v=wGc125T8aIc)
+* [Video: Curso LaTeX + Overleaf](https://www.youtube.com/watch?v=wGc125T8aIc) 
 <br>
 
 ---
