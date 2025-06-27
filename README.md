@@ -53,9 +53,6 @@ Incluye una estructura recomendada para trabajar con herramientas modernas como 
 
 
 
-Perfecto. Aquí tienes una versión más simple, clara y sin emoticones:
-
----
 
 ## Buenas prácticas recomendadas
 
@@ -110,10 +107,13 @@ Perfecto. Aquí tienes una versión más simple, clara y sin emoticones:
 
 ---
 
+
 > 👤 **Autor**: Francisco Alfaro Medina
+>
 > * Mail: [francisco.alfaro@security.cl](mailto:francisco.alfaro@security.cl)
 > * GitHub: [@fralfaro](https://github.com/fralfaro)
 > * LinkedIn: [@faam](https://www.linkedin.com/in/faam/)
-> > ⚠️ **Nota**: Este repositorio está en desarrollo. Puede contener cambios frecuentes y mejoras progresivas.
-
-
+>
+> ⭐ Si te parece útil este repositorio, no olvides dejarle una estrella en GitHub.
+>
+> >⚠️ **Nota**: Este repositorio está en desarrollo. Puede contener cambios frecuentes y mejoras progresivas.
