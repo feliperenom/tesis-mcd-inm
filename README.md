@@ -70,10 +70,7 @@ Perfecto. Aquí tienes una versión más simple, clara y sin emoticones:
 
 * Usa un tablero Kanban en GitHub Projects (por ejemplo: `Tareas`, `En progreso`, `Hecho`)
 * Registra las reuniones semanales en la carpeta `/meetings/` (con acuerdos, tareas y próximos pasos)
-
-**Comunicación**:
-
-* Define un canal de comunicación principal (Slack, Discord, Teams o WhatsApp), el que sea más accesible para el equipo
+* Define un canal de comunicación accesible para el equipo (Slack, Discord, Teams o WhatsApp).
 
 **Documentos y plantillas**:
 
