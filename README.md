@@ -18,7 +18,7 @@
 
 
 
-## 🧠 Descripción
+## 📄 Descripción
 
 Este repositorio es una plantilla base para el desarrollo de tesis de maestría de programas impartidos por la **Facultad de Ciencias Empresariales y Economía** de la **Universidad de Montevideo** (UM). Está diseñado para apoyar a estudiantes y tutores en la organización, documentación y seguimiento del proceso de tesis.
 
