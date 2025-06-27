@@ -53,25 +53,41 @@ Incluye una estructura recomendada para trabajar con herramientas modernas como 
 
 
 
-## ✅ Buenas prácticas recomendadas
+Perfecto. Aquí tienes una versión más simple, clara y sin emoticones:
 
-* Usa estrategias de **branching** en GitHub:
+---
+
+## Buenas prácticas recomendadas
+
+**Control de versiones**:
+
+* Usa una estrategia de ramas en GitHub:
 
   * `main`: versión estable del proyecto
   * `feature/<nombre>`: desarrollo de nuevas funcionalidades o pruebas
 
-* Gestiona tus tareas con un **tablero Kanban** en GitHub Projects (Ej.: `Tareas`, `En progreso`, `Hecho`).
+**Organización del trabajo**:
 
-* Registra tus **reuniones semanales** en la carpeta `/meetings/` (acuerdos, tareas, próximos pasos).
+* Usa un tablero Kanban en GitHub Projects (por ejemplo: `Tareas`, `En progreso`, `Hecho`)
+* Registra las reuniones semanales en la carpeta `/meetings/` (con acuerdos, tareas y próximos pasos)
 
-* Enlaza tu proyecto de Overleaf en `/thesis/overleaf_link.txt`
-  Puedes usar las plantillas disponibles para:
+**Comunicación**:
+
+* Define un canal de comunicación principal (Slack, Discord, Teams o WhatsApp), el que sea más accesible para el equipo
+
+**Documentos y plantillas**:
+
+* Enlaza tu proyecto de Overleaf en el `README.md`. Puedes usar estas plantillas:
 
   * [Tesis académica](https://www.overleaf.com/read/zzgvpnppnxhr#6b559e)
   * [Presentación Beamer](https://es.overleaf.com/read/qtmhmtjmkynw#4cbb93)
 
-* Consulta ejemplos de tesis anteriores y sus repositorios en este Drive compartido:
-  * [Repositorio de Tesis y GitHubs de Trabajos](https://drive.google.com/drive/folders/1D4il1fMGqllWhCA9chJYCt25BLfoMgdA?usp=sharing)
+**Referencias**:
+
+* Consulta ejemplos de tesis y repositorios anteriores en este Drive compartido:
+  [Repositorio de Tesis y GitHubs de Trabajos](https://drive.google.com/drive/folders/1D4il1fMGqllWhCA9chJYCt25BLfoMgdA?usp=sharing)
+
+
 
 ## 🔗 Recursos útiles
 
